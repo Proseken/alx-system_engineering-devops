@@ -1,2 +1,2 @@
 #!/bin/bash
-chown
+sudo i_am_betty
