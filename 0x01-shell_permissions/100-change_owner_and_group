@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent chgrb chown vincent:staff*
+chown -hR vincent:staff .
