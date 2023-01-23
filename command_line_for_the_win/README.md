@@ -11,3 +11,8 @@ Command line for the win (task 1-9)
 Command line for the win (task 10-18)
 
 ![Screenshot from 2023-01-23 02-56-45](https://user-images.githubusercontent.com/66033203/213954436-d0c034f6-c64d-48be-aaef-96fea1299a53.png)
+
+Command line for the win (task 19-27)
+
+![Screenshot from 2023-01-23 03-13-31](https://user-images.githubusercontent.com/66033203/213955283-cbdc8f86-76fb-4c6a-ab68-ade3cea0b72f.png)
+
