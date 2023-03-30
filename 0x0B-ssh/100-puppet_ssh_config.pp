@@ -5,8 +5,8 @@ file { '~/.ssh/config':
   group   => 'user',
   mode    => '0600',
   content => "\
-Host 54.174.243.255
-    Hostname 54.174.243.255
+Host 172.17.0.17
+    Hostname 172.17.0.17
     IgnoreUnkown AddKeysToAgent,UseKeychain
     UseKeychain yes
     AddKeysToAgent yes
