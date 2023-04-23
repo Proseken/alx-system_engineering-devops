@@ -1,8 +1,0 @@
-Host 172.17.0.17
-    Hostname 172.17.0.17
-    IgnoreUnkown AddKeysToAgent,UseKeychain
-    UseKeychain yes
-    AddKeysToAgent yes
-    IdentityFile ~/.ssh/school
-    IdentityFile ~/.ssh/id_rsa
-    PasswordAuthentication no
