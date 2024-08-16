@@ -10,7 +10,7 @@ def number_of_subscribers(subreddit):
     subscribers) for a given subreddit."""
 
     url = "https://www.reddit.com/r/{}/about.json".format(subreddit)
-    headers = {'User-Agent': 'Python Scripts (by: /u/oluwaninsolaao)'}
+    headers = {'User-Agent': 'Python Scripts (by: /u/nduke)'}
     resp = get(url, headers=headers)
     if resp.ok:
         return resp.json().get('data', 0).get('subscribers', 0)
