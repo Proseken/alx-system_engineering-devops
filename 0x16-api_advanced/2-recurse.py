@@ -10,7 +10,7 @@ def recurse(subreddit, hot_list=[], after=None):
     articles for a given subreddit"""
 
     url = 'https://www.reddit.com/r/{}/hot.json'.format(subreddit)
-    headers = {'User-Agent': 'Python Scripts (by: /u/oluwaninsolaao)'}
+    headers = {'User-Agent': 'Python Scripts (by: /u/nduke)'}
     params = {'after': after}
     resp = get(url, headers=headers, params=params)
 
